@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://github.com/sob1rov-dev/sob1rov-dev/raw/main/photo_2022-12-20_07-45-23(1).jpg"  style="max-width: 100%;" width="auto" height="200px"/>
+  <img height="200" src="https://github.com/sob1rov-dev/sob1rov-dev/raw/main/photo_2022-12-20_07-45-23(1).jpg"  style="max-width: 100%;" width="auto"/>
 </div>
 
 
