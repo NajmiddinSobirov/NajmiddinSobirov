@@ -1,9 +1,9 @@
 <div align="center">
-  <img height="200" src="https://github.com/sob1rov-dev/sob1rov-dev/blob/main/photo_2022-12-20_07-45-23(1).jpg" style=border-radius:20/>
+  <img height="200" src="https://github.com/sob1rov-dev/sob1rov-dev/blob/main/photo_2022-12-20_07-45-23(1).jpg"/>
 
 
 
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sob1rov-dev&amp;theme=react-dark&amp;hide_border=true&amp;area=true" style="max-width: 100%;" width="85%">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sob1rov-dev&amp;theme=react-dark&amp;hide_border=true&amp;area=true" style="max-width: 100%;" width="92%">
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=sob1rov-dev&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=00bfbf&amp;icon_color=00bfbf&amp;text_color=c9d1d9&amp;bg_color=0d1117" style="max-width: 100%;" width="49%" height="auto">
