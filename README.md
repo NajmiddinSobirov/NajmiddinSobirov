@@ -3,7 +3,7 @@
 
 
 
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sob1rov-dev&amp;theme=react-dark&amp;hide_border=true&amp;area=true" style="max-width: 100%;border-raduis:25%;" width="91%">
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=sob1rov-dev&amp;show_icons=true&amp;count_private=true&amp;hide_border=true&amp;title_color=00bfbf&amp;icon_color=00bfbf&amp;text_color=c9d1d9&amp;bg_color=0d1117" style="max-width: 100%;" width="49%" height="auto">
